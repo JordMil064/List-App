@@ -1,2 +1,2 @@
 # List-App
-App to hold different items
+A simple app to hold different items
